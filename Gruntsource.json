@@ -1,0 +1,10 @@
+{
+  "name": "monitor",
+  "title": "Monitor.js",
+  "version": "0.1.0",
+  "license": "MIT",
+  "homepage": "https://github.com/jpillora/monitorjs",
+  "author": "Jaime Pillora <dev@jpillora.com>",
+  "source": "~/.grunt-sources/jslib",
+  "repo": "https://github.com/jpillora/grunt-source-jslib.git"
+}
